@@ -4,6 +4,8 @@ Name: Denis Oh
 
 Student ID: 40208580
 
+![BouncingBallsDemo](https://github.com/user-attachments/assets/7398048c-47db-49b0-816c-f88c7a9f2b1f)
+
 #### How to run:
 - `cd build`
 - `cmake ..`
